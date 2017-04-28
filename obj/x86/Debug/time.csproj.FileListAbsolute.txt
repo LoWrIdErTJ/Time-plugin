@@ -1,0 +1,11 @@
+C:\Users\tjgaming\Desktop\Time\obj\x86\Debug\time.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Time\bin\Debug\time.dll
+C:\Users\tjgaming\Desktop\Time\bin\Debug\time.pdb
+C:\Users\tjgaming\Desktop\Time\bin\Debug\UBotPlugin.dll
+C:\Users\tjgaming\Desktop\Time\obj\x86\Debug\time.dll
+C:\Users\tjgaming\Desktop\Time\obj\x86\Debug\time.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Time\bin\Debug\time.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Time\bin\Debug\time.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Time\obj\x86\Debug\time.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Time\obj\x86\Debug\time.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Time\obj\x86\Debug\time.pdb
